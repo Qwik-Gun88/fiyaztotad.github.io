@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiyaz Totad | Google Cloud Consultant</title>
+    <style>
+        /* CSS styles go here */
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #0073e6;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+      .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #0073e6;
+        }
+
+      .section-content {
+            text-align: left;
+        }
+
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fiyaz Totad</h1>
+        <p>Google Cloud Consultant & Account Management Expert</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <div class="section-content">
+            <p>A highly motivated and results-oriented Account Manager with 14+ years of experience in fostering client relationships, driving sales growth, and delivering exceptional customer experiences. Proven ability to identify key decision-makers, develop tailored solutions, and manage complex sales cycles to achieve and exceed targets. Expertise in Google Cloud Platform (GCP) and Google Workspace, with a strong focus on cloud consulting, FinOps strategy, and AI-driven deployments. Adept at collaborating with cross-functional teams and C-level executives to drive business success.</p>
+            <p>Key highlights of my career include:</p>
+            <ul>
+                <li>Generated $1.5M in revenue within one year by exceeding sales targets by 50%.</li>
+                <li>Led the expansion of AI-driven services, successfully transitioning from Proof of Concept (POC) to full-scale deployment.</li>
+                <li>Managed a portfolio of 100+ active enterprise accounts, ensuring customer satisfaction and retention.</li>
+                <li>Collaborated with Google executives to launch large-scale Gemini AI trials, driving adoption among key enterprise clients.</li>
+                <li>Consistently achieved 130% of assigned sales targets, driving revenue and business expansion.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="services" class="container">
+        <h2>Services</h2>
+        <div class="section-content">
+            <p>I offer a range of services to help businesses leverage the power of Google Cloud and achieve their goals:</p>
+            <ul>
+                <li>
+                    <h3>Cloud Consulting</h3>
+                    <p>Helping businesses optimize their use of Google Cloud products (GCP, Workspace) to improve efficiency, scalability, and cost-effectiveness.</p>
+                </li>
+                <li>
+                    <h3>FinOps Strategy</h3>
+                    <p>Supporting clients in controlling cloud spend and reducing costs through effective resource management and optimization strategies.</p>
+                </li>
+                <li>
+                    <h3>AI Strategy</h3>
+                    <p>Assisting with implementing AI-driven services, from proof-of-concept to full-scale deployment, to unlock new possibilities and drive innovation.</p>
+                </li>
+                <li>
+                    <h3>Account Management</h3>
+                    <p>Providing tailored strategies for managing customer accounts and relationships to foster loyalty, increase retention, and drive revenue growth.</p>
+                </li>
+                <li>
+                    <h3>Upselling & Cross-Selling</h3>
+                    <p>Helping businesses maximize their cloud investment with additional Google services that address their evolving needs and challenges.</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects" class="container">
+        <h2>Projects</h2>
+        <div class="section-content">
+            <p>Here are some of the notable projects I've worked on:</p>
+            <ul>
+                <li>
+                    <h3>[Project Title 1]</h3>
+                    <p>[Project Description]</p>
+                </li>
+                <li>
+                    <h3>[Project Title 2]</h3>
+                    <p>[Project Description]</p>
+                </li>
+                {/* Add more project items as needed */}
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact</h2>
+        <div class="section-content">
+            <p>Let's connect and discuss how I can help your business thrive in the cloud.</p>
+            <ul>
+                <li>Email: <a href="mailto:fiyaz7214@gmail.com">fiyaz7214@gmail.com</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/fiyaz-ahmed-t-0aa882175" target="_blank">linkedin.com/in/fiyaz-ahmed-t-0aa882175</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Fiyaz Totad. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
